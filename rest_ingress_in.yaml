@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: qfmeapp-config
+  name: measurementapp-config
   labels:
     data: config
 data:
